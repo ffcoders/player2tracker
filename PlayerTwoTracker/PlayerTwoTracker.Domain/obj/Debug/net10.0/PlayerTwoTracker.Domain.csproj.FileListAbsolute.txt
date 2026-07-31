@@ -1,0 +1,12 @@
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\bin\Debug\net10.0\PlayerTwoTracker.Domain.deps.json
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\bin\Debug\net10.0\PlayerTwoTracker.Domain.dll
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\bin\Debug\net10.0\PlayerTwoTracker.Domain.pdb
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.AssemblyInfo.cs
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.sourcelink.json
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.dll
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\refint\PlayerTwoTracker.Domain.dll
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.pdb
+C:\Users\gilberto.barros\source\repos\gilbertogne\gne\Projetos\P2\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\ref\PlayerTwoTracker.Domain.dll

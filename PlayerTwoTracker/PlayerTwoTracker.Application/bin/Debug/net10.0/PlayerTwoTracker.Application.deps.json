@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PlayerTwoTracker.Application/1.0.0": {
+        "dependencies": {
+          "PlayerTwoTracker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PlayerTwoTracker.Application.dll": {}
+        }
+      },
+      "PlayerTwoTracker.Domain/1.0.0": {
+        "runtime": {
+          "PlayerTwoTracker.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayerTwoTracker.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayerTwoTracker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

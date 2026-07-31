@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PlayerTwoTracker.Api/PlayerTwoTracker.Api.csproj" Id="d16b5cae-144e-44b6-bd84-dd8f33dafdfd" />
+  <Project Path="PlayerTwoTracker.Application/PlayerTwoTracker.Application.csproj" Id="e97df727-ac08-4f11-958e-0d0fe07fdf88" />
+  <Project Path="PlayerTwoTracker.Domain/PlayerTwoTracker.Domain.csproj" Id="6b719501-3472-48c7-bfab-eaf879909323" />
+  <Project Path="PlayerTwoTracker.Infrastructure/PlayerTwoTracker.Infrastructure.csproj" Id="f930b79e-1edc-4536-bcf5-a89f0c9cf2c3" />
+  <Project Path="PlayerTwoTracker.Tests/PlayerTwoTracker.Tests.csproj" Id="6d70397e-87a1-4a9f-9b23-75fa9e279f04" />
+</Solution>

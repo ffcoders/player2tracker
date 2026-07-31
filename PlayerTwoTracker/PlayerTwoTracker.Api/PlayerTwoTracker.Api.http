@@ -1,0 +1,6 @@
+@PlayerTwoTracker.Api_HostAddress = http://localhost:5135
+
+GET {{PlayerTwoTracker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
