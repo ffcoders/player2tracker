@@ -34,3 +34,4 @@ C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTr
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\refint\PlayerTwoTracker.Domain.dll
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTwoTracker.Domain.pdb
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\ref\PlayerTwoTracker.Domain.dll
+C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Domain\obj\Debug\net10.0\PlayerTw.C0BDA76C.Up2Date

@@ -120,3 +120,5 @@ C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTr
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Api\obj\Debug\net10.0\PlayerTwoTracker.Api.pdb
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Api\obj\Debug\net10.0\PlayerTwoTracker.Api.genruntimeconfig.cache
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Api\obj\Debug\net10.0\ref\PlayerTwoTracker.Api.dll
+C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Api\bin\Debug\net10.0\PlayerTwoTracker.Api.xml
