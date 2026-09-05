@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj": {}
+    "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj": {
+    "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj",
+        "projectUniqueName": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj",
         "projectName": "PlayerTwoTracker.Application",
-        "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj",
-        "packagesPath": "C:\\Users\\gilberto.barros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\obj\\",
+        "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj",
+        "packagesPath": "C:\\Users\\gilbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gilberto.barros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gilbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj"
+              "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj": {
+                "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj"
               }
             }
           }
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -350,20 +350,20 @@
         }
       }
     },
-    "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj": {
+    "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj",
         "projectName": "PlayerTwoTracker.Domain",
-        "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj",
-        "packagesPath": "C:\\Users\\gilberto.barros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\obj\\",
+        "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj",
+        "packagesPath": "C:\\Users\\gilbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gilberto.barros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gilbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -414,7 +414,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -692,20 +692,20 @@
         }
       }
     },
-    "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj": {
+    "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj",
         "projectName": "PlayerTwoTracker.Infrastructure",
-        "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\gilberto.barros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gilbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gilberto.barros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gilbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -722,11 +722,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj": {
-                "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj"
+              "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj": {
+                "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj"
               },
-              "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj"
+              "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj": {
+                "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Domain\\PlayerTwoTracker.Domain.csproj"
               }
             }
           }
@@ -763,7 +763,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1041,20 +1041,20 @@
         }
       }
     },
-    "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj": {
+    "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj",
         "projectName": "PlayerTwoTracker.Tests",
-        "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj",
-        "packagesPath": "C:\\Users\\gilberto.barros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\obj\\",
+        "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\PlayerTwoTracker.Tests.csproj",
+        "packagesPath": "C:\\Users\\gilbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gilberto.barros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gilbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1071,11 +1071,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj": {
-                "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj"
+              "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj": {
+                "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Application\\PlayerTwoTracker.Application.csproj"
               },
-              "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\gilberto.barros\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj"
+              "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gilbe\\source\\repos\\ffcoders\\player2tracker\\PlayerTwoTracker\\PlayerTwoTracker.Infrastructure\\PlayerTwoTracker.Infrastructure.csproj"
               }
             }
           }
@@ -1130,7 +1130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="GHC.txt" />
+  </Folder>
   <Project Path="PlayerTwoTracker.Api/PlayerTwoTracker.Api.csproj" Id="d16b5cae-144e-44b6-bd84-dd8f33dafdfd" />
   <Project Path="PlayerTwoTracker.Application/PlayerTwoTracker.Application.csproj" Id="e97df727-ac08-4f11-958e-0d0fe07fdf88" />
   <Project Path="PlayerTwoTracker.Domain/PlayerTwoTracker.Domain.csproj" Id="6b719501-3472-48c7-bfab-eaf879909323" />
