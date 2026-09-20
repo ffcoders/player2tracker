@@ -35,6 +35,7 @@ C:\Users\gilberto.barros\source\repos\ffcoders\player2tracker\PlayerTwoTracker\P
 C:\Users\gilberto.barros\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\obj\Debug\net10.0\PlayerTwoTracker.Infrastructure.pdb
 C:\Users\gilberto.barros\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\obj\Debug\net10.0\ref\PlayerTwoTracker.Infrastructure.dll
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\bin\Debug\net10.0\PlayerTwoTracker.Infrastructure.deps.json
+C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\bin\Debug\net10.0\PlayerTwoTracker.Infrastructure.runtimeconfig.json
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\bin\Debug\net10.0\PlayerTwoTracker.Infrastructure.dll
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\bin\Debug\net10.0\PlayerTwoTracker.Infrastructure.pdb
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\bin\Debug\net10.0\PlayerTwoTracker.Application.dll
@@ -51,4 +52,5 @@ C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTr
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\obj\Debug\net10.0\PlayerTwoTracker.Infrastructure.dll
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\obj\Debug\net10.0\refint\PlayerTwoTracker.Infrastructure.dll
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\obj\Debug\net10.0\PlayerTwoTracker.Infrastructure.pdb
+C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\obj\Debug\net10.0\PlayerTwoTracker.Infrastructure.genruntimeconfig.cache
 C:\Users\gilbe\source\repos\ffcoders\player2tracker\PlayerTwoTracker\PlayerTwoTracker.Infrastructure\obj\Debug\net10.0\ref\PlayerTwoTracker.Infrastructure.dll

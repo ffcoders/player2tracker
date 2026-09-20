@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/": {
+      "get": {
+        "tags": [
+          "PlayerTwoTracker.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -73,6 +85,9 @@
     }
   },
   "tags": [
+    {
+      "name": "PlayerTwoTracker.Api"
+    },
     {
       "name": "WeatherForecast"
     }
