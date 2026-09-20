@@ -4,3 +4,7 @@
 
 /.vs
 /PlayerTwoTracker/.vs
+/PlayerTwoTracker/PlayerTwoTracker.Api/bin/Debug/net10.0
+/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/bin/Debug/net10.0
+/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/obj/Debug/net10.0
+/PlayerTwoTracker/PlayerTwoTracker.Tests/bin/Debug/net10.0
