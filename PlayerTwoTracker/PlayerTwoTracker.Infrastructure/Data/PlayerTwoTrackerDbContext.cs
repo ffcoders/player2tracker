@@ -35,7 +35,5 @@ public class PlayerTwoTrackerDbContext : DbContext
             .WithMany(p => p.PlayerGames)
             .HasForeignKey(pg => pg.PlayerId);
 
-        modelBuilder.Entity<PlayerGame>()
-            .HasIndex(pg => new { pg.PlayerId, pg.GameId, pg.PlatformId });
     }
 }
