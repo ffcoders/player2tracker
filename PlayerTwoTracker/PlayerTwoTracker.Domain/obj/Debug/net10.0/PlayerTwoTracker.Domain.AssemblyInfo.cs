@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayerTwoTracker.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4941531f6d510a455eae832f54972e0d9123e99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa4d0531611445b76d86c8f03806a44fc1c4a7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayerTwoTracker.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayerTwoTracker.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
