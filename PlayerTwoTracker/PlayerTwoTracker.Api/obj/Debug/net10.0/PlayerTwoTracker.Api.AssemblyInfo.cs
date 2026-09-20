@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayerTwoTracker.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a74a7779f6a0333f55c7ba896c45adf9b25d7b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ec2d1f7de38f6f512e7530e4eca55a0d194e2e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayerTwoTracker.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayerTwoTracker.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
