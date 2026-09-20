@@ -18,6 +18,10 @@ public class PlayerTwoTrackerDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
+        modelBuilder.Entity<Game>()
+            .HasMany(g => g.Platforms)
+            .WithMany();
+
         modelBuilder.Entity<PlayerGame>()
             .HasKey(pg => new { pg.PlayerId, pg.GameId, pg.PlatformId });
 

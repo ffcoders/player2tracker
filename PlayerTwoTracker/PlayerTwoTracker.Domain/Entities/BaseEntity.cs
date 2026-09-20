@@ -17,5 +17,5 @@ public class BaseEntity
     /// <summary>
     /// Gets or sets a value indicating whether the entity is deleted (soft delete).
     /// </summary>
-    public bool isDeleted { get; set; } = false;
+    public bool IsDeleted { get; set; } = false;
 }
