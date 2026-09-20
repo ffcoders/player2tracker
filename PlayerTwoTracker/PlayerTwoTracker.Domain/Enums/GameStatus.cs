@@ -1,7 +1,7 @@
 ﻿
 using System.ComponentModel.DataAnnotations;
 
-namespace PlayerTwoTracker.Domain.Enums;
+namespace PlayerTwoTracker.Domain;
 
 /// <summary>
 /// Represents the status of a game in the PlayerTwoTracker application.

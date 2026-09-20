@@ -84,3 +84,46 @@ Entidades:
 Notas:
 •	Usar EF Core code-first; criar DTOs e validações na camada Application antes dos controllers.
 •	Seed inicial sugerida: Platforms = PC, PlayStation, Xbox, Switch.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+1.	Preparar Infraestrutura (DbContext)
+•	Criar PlayerTwoTracker.Infrastructure/Data/PlayerTwoTrackerDbContext.cs.
+•	Registrar DbSets: Games, Platforms, Genres, PlayerGames, Players.
+•	Configurar mapeamentos em OnModelCreating:
+•	salvar GameStatus como string (HasConversion<string>()),
+•	chave composta para PlayerGame ou índice único {PlayerId, GameId},
+•	many‑to‑many Game <-> Genre (implícito) ou entidade de junção, conforme optar.
+
+2.	Adicionar pacotes EF/Core
+•	No projeto Infrastructure:
+•	dotnet add PlayerTwoTracker.Infrastructure package Microsoft.EntityFrameworkCore.Sqlite
+•	dotnet add PlayerTwoTracker.Infrastructure package Microsoft.EntityFrameworkCore.Design
+•	(opcional) global tool: dotnet tool install --global dotnet-ef
+3.	Configurar DI na API
+•	Em PlayerTwoTracker.Api/Program.cs:
+•	builder.Services.AddDbContext<PlayerTwoTrackerDbContext>(opts => opts.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+•	Registrar serviços da camada Application (interfaces → implementações).
+4.	Criar DTOs e camadas de serviço (Application)
+•	PlayerTwoTracker.Application/DTOs e Interfaces:
+•	GameDto, CreateGameDto, UpdateGameDto
+•	IPlatformService, IGameService com métodos CRUD mínimos.
+•	Implementar serviços na Application ou Infrastructure (dependendo da onion/clean architecture).
+5.	Criar Controllers mínimos (Api)
+•	GamesController e PlatformsController com endpoints: GET list, GET by id, POST, PUT, DELETE.
+•	Mapear entidades ↔ DTOs (manual ou AutoMapper se preferir).
+6.	Migrações e seed
+•	Criar migration inicial:
+dotnet ef migrations add InitialCreate --project PlayerTwoTracker.Infrastructure --startup-project PlayerTwoTracker.Api --output-dir Data/Migrations
+•	Aplicar DB:
+dotnet ef database update --project PlayerTwoTracker.Infrastructure --startup-project PlayerTwoTracker.Api
+•	Adicionar seed básico para Platforms (PC, PlayStation, Xbox, Switch) no DbContext ou durante inicialização.
+7.	Testar localmente
+•	dotnet build
+•	dotnet run --project PlayerTwoTracker.Api
+•	Abrir Swagger e testar endpoints básicos.
+Extras recomendados (mais tarde)
+•	DTO validation (FluentValidation ou DataAnnotations).
+•	Mapping com AutoMapper.
+•	Paginação e filtros em GET /games.
+•	Logs e tratamento de erros.

@@ -1,4 +1,4 @@
-﻿namespace PlayerTwoTracker.Domain.Entities;
+﻿namespace PlayerTwoTracker.Domain;
 
 /// <summary>
 /// Represents a gaming platform in the PlayerTwoTracker application.

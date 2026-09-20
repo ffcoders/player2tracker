@@ -10,6 +10,13 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.10" />
+    <PackageReference Include="Microsoft.CodeAnalysis" Version="5.9.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Workspaces.Common" Version="5.9.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.OpenApi" Version="2.7.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="10.2.3" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="10.2.3" />
@@ -17,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PlayerTwoTracker.Application\PlayerTwoTracker.Application.csproj" />
+    <ProjectReference Include="..\PlayerTwoTracker.Infrastructure\PlayerTwoTracker.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

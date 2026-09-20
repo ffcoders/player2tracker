@@ -1,5 +1,8 @@
 using System.Reflection;
 using System.Text.Json.Serialization;
+using Microsoft.EntityFrameworkCore;
+using PlayerTwoTracker.Infrastructure.Data; 
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +13,9 @@ builder.Services.AddControllers().AddJsonOptions(options =>
     options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
 
 });
+    
+builder.Services.AddDbContext<PlayerTwoTrackerDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddSwaggerGen(c =>
@@ -34,5 +40,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapGet("/", () => Results.Ok("PlayerTwoTracker API"));
 
 app.Run();
