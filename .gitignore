@@ -4,17 +4,11 @@
 
 /.vs
 /PlayerTwoTracker/.vs
-/PlayerTwoTracker/PlayerTwoTracker.Api/bin/Debug/net10.0
-/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/bin/Debug/net10.0
-/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/obj/Debug/net10.0
-/PlayerTwoTracker/PlayerTwoTracker.Tests/bin/Debug/net10.0
-/PlayerTwoTracker/PlayerTwoTracker.Api/obj/Debug/net10.0/PlayerTwoTracker.Api.AssemblyInfo.cs
-/PlayerTwoTracker/PlayerTwoTracker.Api/obj/Debug/net10.0/PlayerTwoTracker.Api.AssemblyInfoInputs.cache
-/PlayerTwoTracker/PlayerTwoTracker.Api/obj/Debug/net10.0/PlayerTwoTracker.Api.csproj.AssemblyReference.cache
-/PlayerTwoTracker/PlayerTwoTracker.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
-/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/obj/Debug/net10.0/PlayerTwoTracker.Infrastructure.AssemblyInfo.cs
-/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/obj/Debug/net10.0/PlayerTwoTracker.Infrastructure.AssemblyInfoInputs.cache
-/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/obj/Debug/net10.0/PlayerTwoTracker.Infrastructure.csproj.AssemblyReference.cache
-/PlayerTwoTracker/PlayerTwoTracker.Tests/obj/Debug/net10.0/PlayerTwoTracker.Tests.AssemblyInfo.cs
-/PlayerTwoTracker/PlayerTwoTracker.Tests/obj/Debug/net10.0/PlayerTwoTracker.Tests.AssemblyInfoInputs.cache
-/PlayerTwoTracker/PlayerTwoTracker.Tests/obj/Debug/net10.0/PlayerTwoTracker.Tests.csproj.AssemblyReference.cache
+/PlayerTwoTracker/PlayerTwoTracker.Api/bin/
+/PlayerTwoTracker/PlayerTwoTracker.Api/obj/
+/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/bin/
+/PlayerTwoTracker/PlayerTwoTracker.Infrastructure/obj/
+/PlayerTwoTracker/PlayerTwoTracker.Tests/bin/
+/PlayerTwoTracker/PlayerTwoTracker.Tests/obj/
+/PlayerTwoTracker/PlayerTwoTracker.Application/bin/
+/PlayerTwoTracker/PlayerTwoTracker.Application/obj/
