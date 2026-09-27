@@ -12,3 +12,5 @@
 /PlayerTwoTracker/PlayerTwoTracker.Tests/obj/
 /PlayerTwoTracker/PlayerTwoTracker.Application/bin/
 /PlayerTwoTracker/PlayerTwoTracker.Application/obj/
+/PlayerTwoTracker/PlayerTwoTracker.Domain/bin/Debug/net10.0
+/PlayerTwoTracker/PlayerTwoTracker.Domain/obj
